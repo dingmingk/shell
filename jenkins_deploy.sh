@@ -1,4 +1,11 @@
 #!/bin/bash
+#-----------------------
+#  Deploy war to tomcat and restart
+#-----------------------
+#  By jindm
+#  dingmingk@gmail.com
+#  2015-12-02
+
 #defined
 TOMCAT_HOME="/THE/PATH/YOUR/TOMCAT"
 TOMCAT_PORT=80
